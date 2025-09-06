@@ -1,1 +1,2 @@
 STATUS=PLIKU 75% Z 100% 
+** = plik = wylacz = disabled ** 
