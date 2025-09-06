@@ -1,4 +1,8 @@
-STATUS=PLIKU 100% Z 100% 
+STATUS=PLIKU 90% Z 100% 
 ** = plik = wylacz = enabled ** 
 
-* wykryto atak (1)=china,tiktok,applysetforuser- dostep nie pelny
+* wykryto atak (0) status bezpieczny (tak)
+* zabezpieczenia (100) x20 ( prawidlowo )
+* AI = AKTYWNE
+* KONDYCJA PLIKU (BRAK INFORMACJI)
+* 
